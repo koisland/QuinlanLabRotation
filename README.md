@@ -1,0 +1,5 @@
+# QuinlanLabRotation
+
+```bash
+pixi install
+```
